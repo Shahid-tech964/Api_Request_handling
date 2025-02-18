@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">flow_retrofit_hilt_project</string>
+    <string name="title_activity_loading">LoadingActivity</string>
+</resources>
