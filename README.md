@@ -1,4 +1,4 @@
-<h2>API Request Handling Demo</h2>
+<h2>API Request Handling</h2>
 <p>
   A minimal code example demonstrating how to handle API requests using a public API. This project shows how <strong>Retrofit</strong>, <strong>MVVM architecture</strong>, <strong>Flow</strong>, and <strong>Hilt</strong> work together in a simple setup.
 </p>
